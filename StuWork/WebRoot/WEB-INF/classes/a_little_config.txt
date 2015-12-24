@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:sqlite:/Users/wukai/GitPro/Stuwork/StuWork/WebRoot/WEB-INF/db/study.db
+user =
+password =
+devMode = true

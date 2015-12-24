@@ -9,7 +9,7 @@ public class AdminController extends Controller {
 
     public void index(){
 
-
+        renderText("xxx");
     }
 
 }

@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+java -classpath ./classes:./lib/sqlite-jdbc-3.7.2.jar:./lib/jfinal-2.0-bin-with-src.jar:./lib/jetty-server-8.1.8.jar:./lib/freemarker-2.3.20.jar:./lib/fastjson-1.2.5.jar:./lib/cos-26Dec2008.jar:./lib/c3p0-0.9.1.2.jar com.stuwork.app.AppStart
